@@ -164,7 +164,7 @@ Kimi: 要将`chat`函数替换为`generate`函数，我们需要对原始函数�
 
 最后，由于`generate`函数生成的是自由形式的文本，可能需要额外的逻辑来确保生成的文本符合JSON格式。这可能包括文本解析、关键词提取和格式化等步骤。这些步骤需要你根据你的具体应用场景来实现。 
 
-
+kimi参考文献：https://blog.csdn.net/m0_51300331/article/details/139305726
 
 ####问题1：使用generate还是chat函数
 首先考虑CPU训练速度问题，generate不用计算历史，速度更快
