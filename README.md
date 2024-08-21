@@ -170,6 +170,8 @@ kimi参考文献：https://blog.csdn.net/m0_51300331/article/details/139305726
 
 问题1：使用generate还是chat函数
 首先考虑CPU训练速度问题，generate不用计算历史，速度更快
+
 ![输入图片说明](image.png)
+
 训练结果已上传，可见generate结果较好
 
