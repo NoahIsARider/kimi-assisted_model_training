@@ -42,7 +42,7 @@ df = pd.read_json("a.json")
 ds = Dataset.from_pandas(df)
 print(ds[:5])
 
-tokenizer = AutoTokenizer.from_pretrained('/root/autodl-tmp/qwen/Qwen2-7B-Instruct', use_fast=False)
+tokenizer = AutoTokenizer.from_pretrained('qwen/Qwen-7B-Chat', use_fast=False)
 print(tokenizer)
 
 def process_func(example):
