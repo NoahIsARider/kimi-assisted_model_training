@@ -71,7 +71,7 @@ Kimi: `generate`函数是大型语言模型（LLM）中用于生成文本的核�
 
 这些参数共同决定了生成文本的方式和特性，可以根据不同的应用场景和需求进行调整。例如，增加`temperature`可以提高生成文本的多样性，而减小`top_k`或使用`top_p`采样可以避免生成最常见的token，从而增加文本的创造性 。 
 
- **User: 可以给一个python代码实例吗？ ** 
+ **User: 可以给一个python代码实例吗？** 
 
 Kimi: 当然可以。以下是一个使用Python和Hugging Face的Transformers库中的`generate`方法的示例代码。这个例子假设你已经安装了Transformers库，并且有一个预训练的模型和对应的tokenizer。
 
@@ -82,7 +82,7 @@ Kimi: 当然可以。以下是一个使用Python和Hugging Face的Transformers�
 请注意，你需要根据你的具体模型和tokenizer来调整`model_name`和其他参数。此外，这个例子使用了GPT-2模型，但`generate`方法可以与任何支持因果语言建模（Causal Language Modeling）的Transformers模型一起使用。 
 
  **User: 
-帮我把文件里的chat函数换成generate函数，保证不报错 ** 
+帮我把文件里的chat函数换成generate函数，保证不报错** 
 
 Kimi: 在Hugging Face的Transformers库中，`chat`函数是一个为对话场景设计的便捷函数，而`generate`函数是一个更通用的文本生成函数。由于`chat`函数内部可能会处理对话历史等逻辑，直接替换成`generate`可能需要一些调整来确保功能的正确性。
 
@@ -94,7 +94,7 @@ Kimi: 在Hugging Face的Transformers库中，`chat`函数是一个为对话场�
 
 如果你希望保留`history`参数来维护对话状态，你可能需要自己实现这部分逻辑，因为标准的`generate`方法不提供这样的功能。此外，生成的文本是直接返回的，没有转换成JSON格式，因为`generate`方法不包含将文本解析为JSON的逻辑。如果需要生成JSON格式的文本，你可能需要在生成文本后手动实现这一转换。 
 
- **User: 这个open函数里的参数是什么 ** 
+ **User: 这个open函数里的参数是什么** 
 
 Kimi: 在Python中，`open`函数用于打开一个文件并返回一个文件对象，它可以接受多个参数来控制文件的打开模式和行为。以下是`open`函数的一些常用参数：
 
@@ -127,7 +127,7 @@ with open('study_data/examples.txt', 'r', encoding='utf-8') as file:
 使用`with`语句可以确保文件在使用后正确关闭，即使在读取文件时发生异常也是如此。 
 
  **User: 
-可以帮我把chat换成generate函数吗？保证尽量改变最小，不会报错 ** 
+可以帮我把chat换成generate函数吗？保证尽量改变最小，不会报错** 
 
 Kimi: 将`chat`函数替换为`generate`函数并确保最小化改变，你需要做以下几步：
 
@@ -151,7 +151,7 @@ Kimi: 将`chat`函数替换为`generate`函数并确保最小化改变，你需�
 最后，`format_output`函数需要你根据你的具体需求来实现，将生成的文本转换为所需的JSON格式。由于这通常需要特定的逻辑来解析文本并提取关键信息，这里没有提供具体的实现。 
 
  **User: 
-只需要将chat换成generate函数,不报错，可以怎么样改变。输出改变后的代码 ** 
+只需要将chat换成generate函数,不报错，可以怎么样改变。输出改变后的代码** 
 
 Kimi: 要将`chat`函数替换为`generate`函数，我们需要对原始函数进行一些调整。由于`generate`函数不处理历史信息，我们将移除所有与`history`相关的参数。此外，我们将使用`input_ids`参数来传递经过编码的输入文本给`generate`函数。
 
