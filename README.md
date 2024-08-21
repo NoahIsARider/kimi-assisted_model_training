@@ -3,7 +3,7 @@
 #### 介绍
 在自己的知识有限的情况下，使用大模型来完成项目，是一个很好的选择。现在kimi允许上网，不仅使其在文科上拥有更加强大的表现，也因为可以联网到GSDN等论坛，有助于我们完成一些项目
 
-####微调部分的聊天记录
+#### 微调部分
 User: 我的领导要求我对qwen模型进行微调，请给予我建议以及相关代码实现 
 
 Kimi: Qwen模型是由阿里巴巴集团Qwen团队研发的大型语言模型和大型多模态模型系列，具备自然语言理解、文本生成等多种能力。针对您的需求，对Qwen模型进行微调，以下是一些建议和相关代码实现：
@@ -38,7 +38,7 @@ Kimi: 在进行Qwen模型的微调时，数据集的准备是一个关键步骤�
 
 这里是kimi参考的文献：https://blog.csdn.net/SoulmateY/article/details/139564504
 
-####prompt工程部分的聊天记录
+#### prompt工程部分的聊天记录
 
 User: llm模型的generate函数和chat函数有什么区别 
 
@@ -166,7 +166,7 @@ Kimi: 要将`chat`函数替换为`generate`函数，我们需要对原始函数�
 
 kimi参考文献：https://blog.csdn.net/m0_51300331/article/details/139305726
 
-####问题1：使用generate还是chat函数
+#### 问题1：使用generate还是chat函数
 首先考虑CPU训练速度问题，generate不用计算历史，速度更快
 ![输入图片说明](image.png)
 训练结果已上传，可见generate结果较好
