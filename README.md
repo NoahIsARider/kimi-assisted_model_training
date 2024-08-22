@@ -176,3 +176,6 @@ kimi参考文献：https://blog.csdn.net/m0_51300331/article/details/139305726
 
 训练结果已上传，可见generate结果较好
 
+#文心一言协助虚拟机的防火墙开关
+
+叮！快来看看我和文心一言的奇妙对话～点击链接 https://yiyan.baidu.com/share/HHGsBWNdLt -- 文心一言，既能写文案、读文档，又能绘画聊天、写诗做表，你的全能伙伴！
