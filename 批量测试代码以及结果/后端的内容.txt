@@ -1,0 +1,167 @@
+
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part051.aac
+Detected language 'zh' with probability 1.000000
+好了,理智肠,辛苦啦,一点蛋啦没事没事,我就开一张那个胃肠镜的蛋哎呀你这个,其实我们现在可以在网上申请然后也可以胃肠镜一般如果因为有些人你看,有些人看很久是因为他要问好很多东西像你这种直接目标很明确的,下次可以早点进因为我是公费医疗,所以我只想可能在网上,对,开了到时候还得什么是不是要上二楼啊,交钱你急诊那边可以交急诊那边可以交没有怀孕啊没有没有没有其他什么记忆就常规想体检对啊就48,所以还是验一下会好一点看不出来48谢谢到40麻醉吗麻麻醉的吧现在不麻醉很少吧我想麻醉还舒服一点对啊,是半天吗不用,其实真正做是半小时就做完的哦,但是要等那个麻药过去是吧麻药过去也很快,但就是主要就是喝西药比较辛苦了我觉得但是麻醉的话应该是没有什么知觉什么的吧对,没感觉现在那这个是怎么约啊,是在前台还是在网上没有,我直接跟你约时间好的但是就得等一等电脑开始反应慢了他也要下班了对,他有时候我们经常看到最后一点病人他就开始罢工要重新没反应稍等稍等没事他是不是闪退了真的是真的没有得重新搞罢工罢工约上吗好像早上看还可以你稍等一下好的因为每天都好多开出去的我在这里做他说还是比较专业比较舒服的嗯还是非常一直想笑你幽浮楼感情
+{"主诉": "检查胃部不适，考虑需要胃肠镜检查", "现病史": "患者最近几天出现胃部不适症状，前往医疗机构就诊，医生建议进行胃肠镜检查以确定病因，预约时间为今天下午，不需要空腹，可选择门诊或网络预约方式，具体操作方式和流程尚不清楚，需等待通知。", "既往病史": "无。"}
+qwen返回str：{"主诉": "检查胃部不适，考虑需要胃肠镜检查", "现病史": "患者最近几天出现胃部不适症状，前往医疗机构就诊，医生建议进行胃肠镜检查以确定病因，预约时间为今天下午，不需要空腹，可选择门诊或网络预约方式，具体操作方式和流程尚不清楚，需等待通知。", "既往病史": "无。"}
+<class 'dict'>
+最后生成字典：{'主诉': '检查胃部不适，考虑需要胃肠镜检查', '现病史': '患者最近几天出现胃部不适症状，前往医疗机构就诊，医生建议进行胃肠镜检查以确定病因，预约时间为今天下午，不需要空腹，可选择门诊或网络预约方式，具体操作方式和流程尚不清楚，需等待通知。', '既往病史': '无。'}
+Text files sent to front_end
+10.195.62.27 - - [23/Aug/2024 15:03:38] "POST /upload HTTP/1.1" 200 -
+文件类型检查完毕，正在保存...
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part052.aac
+Detected language 'zh' with probability 1.000000
+军医自己有测的啊嗯 没测过嗯 那您就一起测嗯 好啊 好啊作为尝镜的时候一会儿好的这个是不是隔五年做一次会比较好嗯 看情况如果是第一次检查什么事情都没有五年查一次就够了如果是有吸肉就根据吸肉的情况来定23号可以做23号嗯 这是最快的时间那后面的这个时间可以绿色的可以绿色的才可以啊23估计人家退了一个好23 我不在党中23要外出那29 3029 先约29吧29吧29啊 会不会来月经嗯 现在来 正在来所以我就刚好抢这个月嘛是不是要提前一天要吃点什么对 早上喝下午肉您这个月的是下午早上也可以 下午也可以是吧您那个29号只有一个时间只有下午是吧下午做挺好啊你就前一天晚上你基本上也是正常吃东西然后第二天早上那个就行了第二天早上开始喝西药哦下午来做就行哦 行喝西药都喝到饱了不会饿死不会想再吃了不会吐到都长秃了上面有注意事项要怎么做是吧有一个说明的您还要网上问诊是吧嗯一堆的这个要的说明会告诉你怎么吃好吧好的好的就上去二楼还是去那边可以去急诊交费谢谢然后去二楼那边拿药好 谢谢汤转开吗我来吧汤转开我的天哦最后一个来吧好没事我有个同样的约了之前那个便秘大隐起过是吧平时那个肚痛大便然后胃气然后肚脏好了一点了我又不揹它那吃了药有效吗吃了药有效吗还可以啊就是你现在有什么感觉现在就不大意了嗯又是大便但那些药是没有再吃的没有再吃了这段时间对然后最近大便有几天两三天都不拉一次一拉就哦 肚子又痛了越来越痛还有胃又胃气又顶着有点不舒服症状和之前有点像嗯大便会不会很硬现在又不硬了没有药有什么事了陈主任这种药我吃了不舒服这种药你说这种药有没有什么很多啊那个张主任帮我开过我不要不是你开的我知道不是就是吃了点不舒服胃不行吃完之后我感觉它是消化酶是啊就是补充帮助消化吸收的我吃完它不舒服的不知道为什么一分钟我就不浪费要怎么处理它我都没有买出来算了看看有没有回收拿回来给她你先留着或者家人有没有说就是胃口不好或者什么的它是补充消化酶的有没有啊是啊那算了留着它一会儿留着如果没什么那你那我现在这种这里还有一盒这个这个早就没有了这里还有几盒这个那这个要吃了
+{"主诉": "上述内容无主诉部分", "现病史": "患者自行描述病情如下：2年前无明显诱因出现右侧偏头痛，常连及前额，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作，曾在外院诊断“顽固性偏头痛”，予止痛治疗（具体不详），效果不佳，现伴头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒，头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数。", "既往病史": "无。"}
+qwen返回str：{"主诉": "上述内容无主诉部分", "现病史": "患者自行描述病情如下：2年前无明显诱因出现右侧偏头痛，常连及前额，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作，曾在外院诊断“顽固性偏头痛”，予止痛治疗（具体不详），效果不佳，现伴头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒，头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数。", "既往病史": "无。"}
+<class 'dict'>
+最后生成字典：{'主诉': '上述内容无主诉部分', '现病史': '患者自行描述病情如下：2年前无明显诱因出现右侧偏头痛，常连及前额，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作，曾在外院诊断“顽固性偏头痛”，予止痛治疗（具体不详），效果不佳，现伴头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒，头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数。', '既往病史': '无。'}
+Text files sent to front_end
+10.195.62.27 - - [23/Aug/2024 15:03:58] "POST /upload HTTP/1.1" 200 -
+文件类型检查完毕，正在保存...
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part053.aac
+Detected language 'zh' with probability 1.000000
+这个要吃这个我家里有四盒这个不开给你这个还要一盒这个要吃的都要吃是不是一盒有28粒那也不用给你开了然后另外的那个小麦德舒特这两个要给你开这两个要给你开好继续吃它就行了是不是是它要吃多久其实你保持大便的这个情况通常是很重要的你要保持大便的情况可以然后逐渐减量就比如说这个一天吃三次那我变成一天吃两次我也大便很好那我们变成一天吃两次减一点然后如果没有矮气了那我们这个停一停但是那个小麦纤维颗粒那些都可以继续用的那个是上屎纤维就是到时候这个顺一点这个就减少一点对啊反正这些药可以适当减一减就是这个到时候也可以停一下差不多OK的时候反正可以调一调的但是就不要一下子全停掉好好好我开两个星期药给你可以可以好谢谢它这个我不用吃这个了这个不吃了没开因为你现在现在大便不硬我就不开但如果是吃这些药大便很硬一颗一颗你就加上去总是经常拉不起来我加了那个脾胃硝胺那个药吃好谢谢不好意思弄得你这么硬你们还等了这么久没事总是这样是不是反复不怎么样本身是有便秘便秘是比较长期的过程没关系自备奥美拉做还有一个是多吃青菜多喝水然后定期排便就每天早上起床宁可早起一点去把这个大便的问题解决蹲了一个多小时蹲到我脚背了好烦搞死我了那个药到时候吃就行了稍等一下我还在门诊没时间回吃到差不多了慢慢慢慢减掉全部减掉全部它这个是属于胃药吗对压气压气和胃有点不舒服吃这个它这个不能长期吃吗是不用长期吃没什么压气就不用吃了好可以了麻烦你没有吧这个不是太小了吗你是加好的是这个吗对天啊我还想可以收工了好开心这个是她现在又说肚子有点36岁肚子又痛了是那个我知道就是当时好像是当时还考虑胃肠炎还血象高的是后来后来好像用了药什么的也就没事了去做了检查去了那个药对当时好像急诊还做了CT的是那你现在又干啥呢她又说肚子痛了又老便秘了平常是你是不是平时老便秘平时有经常便秘吗以前有时候有你那个门诊号有没有这个是门诊号吗这是交费这是病历号不知道门诊号是不是这是什么陈慧文对查一下你的CT她那个好像习用的那个节管也出来了不接到电话应该是没事的对蛮幸运的CT当时也没啥是20年20年CT当时也没啥嗯她就是
+{"主诉": "头痛 风寒头痛证", "现病史": "患者两年前无明显诱因出现右侧偏头痛，常连及前额，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作，曾在外院诊断“顽固性偏头痛”，予止痛治疗（具体不详），效果不佳，现伴头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒，头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数。", "既往病史": "无。"}
+qwen返回str：{"主诉": "头痛 风寒头痛证", "现病史": "患者两年前无明显诱因出现右侧偏头痛，常连及前额，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作，曾在外院诊断“顽固性偏头痛”，予止痛治疗（具体不详），效果不佳，现伴头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒，头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数。", "既往病史": "无。"}
+<class 'dict'>
+最后生成字典：{'主诉': '头痛 风寒头痛证', '现病史': '患者两年前无明显诱因出现右侧偏头痛，常连及前额，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作，曾在外院诊断“顽固性偏头痛”，予止痛治疗（具体不详），效果不佳，现伴头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒，头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数。', '既往病史': '无。'}
+Text files sent to front_end
+10.195.62.27 - - [23/Aug/2024 15:04:19] "POST /upload HTTP/1.1" 200 -
+文件类型检查完毕，正在保存...
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part054.aac
+Detected language 'zh' with probability 1.000000
+昨天 前天 前天吃了米饭就平常时 平常时它它一拉死的时候 它就拉不出好像那个屎没有下去一样就在上面那里所以就鼓着那个气走那个胃上来很痛很痛痛了又拉不了没有发烧吗 这次痛我知道了上次他们也没有按照你这个便秘处理来 说你现在就大便拉不出来 是吧大便拉不出来就是它就拉不出来好像没有下到一样在这里卡住这样子那一般要多少天拉一次大便一般是一般要 现在要三四天平时都是三四天一次平常时没有就是做完这个手术回去了在这次手术之前呢就是基本一天一次基本一天一次一天一次会不会也是有点比较难拉平时平常时也是有点难拉也是有点便秘的是吧大便会不会很硬是开始时候拉就硬拉了三次很小的出来那我们一般洗平时是不是很硬平常时有时候也是开始时候就拉点硬出来你现在肚子有点痛是吧大便好几天没拉了是吧前 昨天晚上拉了一次拉完之后肚子炸了痛了会不会舒服一点拉完就舒服一点就是那个胃好像不是很舒服就那个一拉的时候就拉了去厕所那里摸了半个钟等了一个多小时吧等了一个多小时才拉完出来开始时候就拉点硬硬的吃东西方面呢平时吃啥就喝椒汁她是手术后回去吃三天那个洗手现在呢昨天吃饭了吗嗯 吃饭了吃了一点饭消耗不良不行了 吃饭了有气吗有她一痛的时候一痛的时候就想拉肚子那个床上面那里很多气点这个胃上来就有点想吐 想吐这样子感觉就搞得那个胃很痛就要去拉拉又拉不出来要去那里炖一个钟左右才能拉一点点硬的出来后面就又拉一点就完了你是住在附近吗是 在附近我开一个星期的药给你你下个星期回来我看一眼好吧好看看有没有效果好吧好上次你开那个药我吃完了出院的时候吗是发病有时候还是硬的给你用了一些通便的我开了一个星期药这个药会比较多种去搭配但是下周来复诊的目的我就想第一看有没有效第二想再帮你减量现在就是多一点包括消化的 包括胃酸的然后通便的都给你开了下周我再帮你减正常饮食除非肚子很痛拉不出来怕有梗住要么就是正常饭菜肉昨晚就是拉不出来就搞得漏冷汗呆在厕所里面漏冷汗拉很久所以气一直的点胃上来点得很不舒服一个星期 好吧下次过来复诊你是星期四我星期四 下周四有门诊应该还挂得到号吧你赶紧挂要不又得等 等到最后加对 特诊也有贵一点了但是特诊就不用等因为病人我就没约那么多特诊除了诊金贵一点之外它的药费跟检查检验都是一样的钱而且还能优先所以看情况了那先给你了谢谢麻烦你这么久没事等下上班了对给一点小小礼物不没事真的不用没事的真的不用快 真不用没事的不客气主要是真的趁主要快点 拿回去
+["腹痛 腹胀腹泻病史", "患者于两天前突感腹痛，呈阵发性加重，呈绞痛样，伴有腹胀、恶心、嗳气等症状，已就诊当地诊所，诊断为肠痉挛，给予抗炎止痛治疗（具体不详），症状有所缓解，但仍有腹胀感，今日下午又突发腹痛加重，且伴有发热（37.5℃）、出汗增多等症状，遂前来就诊。", "患者平素身体状况良好，无长期服药史，无吸烟、饮酒嗜好，无明显家族遗传病史。"]
+qwen返回str：["腹痛 腹胀腹泻病史", "患者于两天前突感腹痛，呈阵发性加重，呈绞痛样，伴有腹胀、恶心、嗳气等症状，已就诊当地诊所，诊断为肠痉挛，给予抗炎止痛治疗（具体不详），症状有所缓解，但仍有腹胀感，今日下午又突发腹痛加重，且伴有发热（37.5℃）、出汗增多等症状，遂前来就诊。", "患者平素身体状况良好，无长期服药史，无吸烟、饮酒嗜好，无明显家族遗传病史。"]
+An unexpected error occurred: not enough values to unpack (expected 2, got 1)
+<class 'dict'>
+最后生成字典：{'主诉': '无', '现病史': '无', '既往病史': '无'}
+Text files sent to front_end
+10.195.62.27 - - [23/Aug/2024 15:04:40] "POST /upload HTTP/1.1" 200 -
+文件类型检查完毕，正在保存...
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part055.aac
+Detected language 'zh' with probability 1.000000
+
+{
+  "主诉": "头痛",
+  "现病史": [
+    "右侧偏头痛，常连及前额，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作",
+    "曾在外院诊断“顽固性偏头痛”，予止痛治疗（具体不详），效果不佳",
+    "现伴头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒",
+    "头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数"
+  ],
+  "既往病史": ["无"]
+}
+qwen返回str：{
+  "主诉": "头痛",
+  "现病史": [
+    "右侧偏头痛，常连及前额，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作",
+    "曾在外院诊断“顽固性偏头痛”，予止痛治疗（具体不详），效果不佳",
+    "现伴头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒",
+    "头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数"
+  ],
+  "既往病史": ["无"]
+}
+An unexpected error occurred: not enough values to unpack (expected 2, got 1)
+<class 'dict'>
+最后生成字典：{'主诉': '无', '现病史': '无', '既往病史': '无'}
+Text files sent to front_end
+10.195.62.27 - - [23/Aug/2024 15:04:47] "POST /upload HTTP/1.1" 200 -
+文件类型检查完毕，正在保存...
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part056.aac
+Detected language 'zh' with probability 1.000000
+
+{'主诉': '头痛', '现病史': '患者有两年的头痛史，右半边头痛，有时候连带着额头一起痛，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作，曾在外院诊断为“顽固性偏头痛”，但是服用药物疗效不佳，现伴有头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒等症状，头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数。', '既往病史': '无'}.
+qwen返回str：{'主诉': '头痛', '现病史': '患者有两年的头痛史，右半边头痛，有时候连带着额头一起痛，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作，曾在外院诊断为“顽固性偏头痛”，但是服用药物疗效不佳，现伴有头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒等症状，头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数。', '既往病史': '无'}.
+<class 'dict'>
+最后生成字典：{'主诉': '头痛', '现病史': '患者有两年的头痛史，右半边头痛，有时候连带着额头一起痛，呈搏动性疼痛，时痛时止，每当情绪紧张或劳累时易发作，曾在外院诊断为“顽固性偏头痛”，但是服用药物疗效不佳，现伴有头晕、恶心、颈部僵硬不适、流清涕、无汗恶寒等症状，头晕发作时呈昏沉感，纳可，睡眠不佳，二便调，舌淡苔白，脉浮数。', '既往病史': "无'}."}
+Text files sent to front_end
+10.195.62.27 - - [23/Aug/2024 15:04:54] "POST /upload HTTP/1.1" 200 -
+文件类型检查完毕，正在保存...
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part057.aac
+Detected language 'zh' with probability 1.000000
+
+{'主诉': '未提供', '现病史': '未提供', '既往病史': '未提供'}
+qwen返回str：{'主诉': '未提供', '现病史': '未提供', '既往病史': '未提供'}
+<class 'dict'>
+最后生成字典：{'主诉': '未提供', '现病史': '未提供', '既往病史': '未提供'}
+Text files sent to front_end
+10.195.62.27 - - [23/Aug/2024 15:04:58] "POST /upload HTTP/1.1" 200 -
+文件类型检查完毕，正在保存...
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part058.aac
+Detected language 'zh' with probability 1.000000
+
+['']
+qwen返回str：['']
+An unexpected error occurred: not enough values to unpack (expected 2, got 1)
+<class 'dict'>
+最后生成字典：{'主诉': '无', '现病史': '无', '既往病史': '无'}
+Text files sent to front_end
+10.195.62.27 - - [23/Aug/2024 15:05:01] "POST /upload HTTP/1.1" 200 -
+文件类型检查完毕，正在保存...
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part059.aac
+Detected language 'zh' with probability 1.000000
+
+{'主诉': '头痛', '现病史': '患者在两年间反复出现右侧偏头痛症状，同时伴随恶心、头晕和颈部僵硬不适等症状。目前病情已经持续了一段时间，并且无法通过外部药物有效缓解。曾经到过其他的医疗机构进行过检查，但并未得到明确的病因和治疗方案。', '既往病史': ['未提供']}
+qwen返回str：{'主诉': '头痛', '现病史': '患者在两年间反复出现右侧偏头痛症状，同时伴随恶心、头晕和颈部僵硬不适等症状。目前病情已经持续了一段时间，并且无法通过外部药物有效缓解。曾经到过其他的医疗机构进行过检查，但并未得到明确的病因和治疗方案。', '既往病史': ['未提供']}
+<class 'dict'>
+最后生成字典：{'主诉': '头痛', '现病史': '患者在两年间反复出现右侧偏头痛症状，同时伴随恶心、头晕和颈部僵硬不适等症状。目前病情已经持续了一段时间，并且无法通过外部药物有效缓解。曾经到过其他的医疗机构进行过检查，但并未得到明确的病因和治疗方案。', '既往病史': "['未提供']"}
+Text files sent to front_end
+10.195.62.27 - - [23/Aug/2024 15:05:07] "POST /upload HTTP/1.1" 200 -
+文件类型检查完毕，正在保存...
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part060.aac
+[2024-08-23 15:05:07,084] ERROR in app: Exception on /upload [POST]
+Traceback (most recent call last):
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/flask_cors/extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "final_back_end.py", line 230, in upload_file
+    whisper_text1=faster_whisper_handle(file_path)
+  File "final_back_end.py", line 40, in faster_whisper_handle
+    segments, info = whisper_model.transcribe(
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/faster_whisper/transcribe.py", line 319, in transcribe
+    audio = decode_audio(audio, sampling_rate=sampling_rate)
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/faster_whisper/audio.py", line 46, in decode_audio
+    with av.open(input_file, mode="r", metadata_errors="ignore") as container:
+  File "av/container/core.pyx", line 420, in av.container.core.open
+  File "av/container/core.pyx", line 266, in av.container.core.Container.__cinit__
+  File "av/container/core.pyx", line 286, in av.container.core.Container.err_check
+  File "av/error.pyx", line 326, in av.error.err_check
+av.error.EOFError: [Errno 541478725] End of file: '/root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part060.aac'
+10.195.62.27 - - [23/Aug/2024 15:05:07] "POST /upload HTTP/1.1" 500 -
+文件类型检查完毕，正在保存...
+File received and saved as /root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part061.aac
+[2024-08-23 15:05:07,107] ERROR in app: Exception on /upload [POST]
+Traceback (most recent call last):
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/flask_cors/extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "final_back_end.py", line 230, in upload_file
+    whisper_text1=faster_whisper_handle(file_path)
+  File "final_back_end.py", line 40, in faster_whisper_handle
+    segments, info = whisper_model.transcribe(
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/faster_whisper/transcribe.py", line 319, in transcribe
+    audio = decode_audio(audio, sampling_rate=sampling_rate)
+  File "/root/anaconda3/envs/faster_env2/lib/python3.8/site-packages/faster_whisper/audio.py", line 46, in decode_audio
+    with av.open(input_file, mode="r", metadata_errors="ignore") as container:
+  File "av/container/core.pyx", line 420, in av.container.core.open
+  File "av/container/core.pyx", line 266, in av.container.core.Container.__cinit__
+  File "av/container/core.pyx", line 286, in av.container.core.Container.err_check
+  File "av/error.pyx", line 326, in av.error.err_check
+av.error.EOFError: [Errno 541478725] End of file: '/root/whisper_to_qwen/input_wav/08月09日自动保存_1[1]Part061.aac'
+10.195.62.27 - - [23/Aug/2024 15:05:07] "POST /upload HTTP/1.1" 500 -
