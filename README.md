@@ -185,3 +185,6 @@ kimi参考文献：https://blog.csdn.net/m0_51300331/article/details/139305726
 # 文心一言协助虚拟机的防火墙开关
 
 叮！快来看看我和文心一言的奇妙对话～点击链接 https://yiyan.baidu.com/share/HHGsBWNdLt -- 文心一言，既能写文案、读文档，又能绘画聊天、写诗做表，你的全能伙伴！
+
+# 批量测试
+![输入图片说明](%E6%89%B9%E9%87%8F%E6%B5%8B%E8%AF%95%E4%BB%A3%E7%A0%81%E4%BB%A5%E5%8F%8A%E7%BB%93%E6%9E%9C/image.png)
