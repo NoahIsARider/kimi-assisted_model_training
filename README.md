@@ -786,4 +786,6 @@ print(f'Data has been appended to {excel_file_path}')
 pip install openpyxl
 ``` 
 
+这一部分的详细结果在https://github.com/NoahIsARider/Working-With-Kimi可以看到
+
 
